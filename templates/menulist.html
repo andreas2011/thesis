@@ -1,0 +1,44 @@
+
+{% extends 'base.html' %}
+ {% block content %}
+
+
+<hr>
+
+<div class="list">
+{#{% if questions %}#}
+  {% for q in questions %}
+    <div class="item twelve columns">
+
+      <div class="twelve columns">
+        <div class="two-thirds column">
+          <h3>{{q[0]}}</h3>
+        </div>
+
+      </div>
+      <div class="twelve columns">
+        <div>
+          <hr class="separator">
+        </div>
+        <div>
+          <div class="two-thirds column">
+            <p></p>
+            <p class="fineprint"></p>
+          </div>
+          <div class="one-third column right">
+            <p></p>
+            <p class="price"></p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  {% endfor %}
+{#{% else %}#}
+{#<div class="item twelve columns">#}
+{#  <h3>No items yet.</h3>#}
+{#</div>#}
+{#{% endif %}#}
+</div>
+{% endblock %}
+
