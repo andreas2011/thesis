@@ -103,7 +103,7 @@ pyasn1-modules==0.2.1
 pychalk==2.0.0
 pycodestyle==2.3.1
 pycparser==2.19
-pycryptodome==3.4.3
+pycryptodome==3.6.6
 Pygments==2.2.0
 PyJWT==1.4.2
 pymongo==2.9.5
