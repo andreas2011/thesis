@@ -27,7 +27,7 @@ clibuilder==0.1.7
 Click==7.0
 codecov==2.0.5
 coverage==4.2
-cryptography==2.8
+cryptography==3.2
 curtsies==0.3.0
 decorator==4.4.1
 defusedxml==0.6.0
