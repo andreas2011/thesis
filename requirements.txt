@@ -42,7 +42,7 @@ filelock==3.0.12
 firebase-admin==2.11.0
 Flask==1.1.1
 Flask-Admin==1.4.2
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 Flask-GoogleCharts==0.1.0
 Flask-JWT-Simple==0.0.3
 Flask-Login==0.4.1
