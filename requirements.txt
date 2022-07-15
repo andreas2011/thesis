@@ -25,7 +25,7 @@ chardet==3.0.4
 chronology==1.1
 clibuilder==0.1.7
 Click==7.0
-codecov==2.0.5
+codecov==2.0.16
 coverage==4.2
 cryptography==2.8
 curtsies==0.3.0
