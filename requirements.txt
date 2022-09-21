@@ -114,7 +114,7 @@ Pyrebase==3.0.27
 python-dateutil==2.8.1
 python-dotenv==0.6.2
 python-editor==1.0.3
-python-jwt==2.0.1
+python-jwt==3.3.4
 pytz==2019.3
 requests==2.22.0
 requests-ntlm==1.1.0
