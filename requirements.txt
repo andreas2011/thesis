@@ -19,7 +19,7 @@ CacheControl==0.12.5
 cached-property==1.5.1
 cachetools==2.1.0
 celery==4.0.0
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 chronology==1.1
